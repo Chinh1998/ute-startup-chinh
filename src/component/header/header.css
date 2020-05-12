@@ -1,0 +1,32 @@
+.header{
+    width: 100%;
+    position: fixed;
+    background-color: rgb(32, 66, 87);
+    top: 0; 
+    left: 0;
+    z-index: 100000;
+    box-shadow: 0 2px 4px 0px rgb(68, 68, 68);
+    margin-bottom: 15%;
+}
+.logo_app{
+    float: left;
+    width: 15%;
+    height: auto;
+    margin: 0.5% 0px 0px 1%;
+   }
+   .logo_app img{
+     width: 100%;
+     float: left;
+   }
+   .signup{
+    width: 15%;
+    height: auto;
+    float: left;
+    margin-top:  1.5%;
+  }
+  .nav{
+    width: 65%;
+    height: auto ;
+    float: left;
+    margin-top:  1%;
+  }  

@@ -1,0 +1,50 @@
+.comment{
+    width: 70%;
+    margin: 0px 0px 5px 3% ;
+    box-sizing: border-box;
+    clear: both;
+}
+.box_comment{
+    width: 50%;
+}
+.comment .mancomment{
+    width: 50px;
+    float: left;
+}
+ .content_comment{
+    width: 100%;
+    margin-bottom: 2%;
+    float: left;
+}
+.comment:hover .action{
+    display: block;
+}
+.box{
+    width: 80%;
+    margin-left: 5%;
+    float: left;
+}
+.edit{
+    width:8%;
+    height: 30px;
+    }
+.action{
+    height: 20px;
+    display: none;
+}
+.icon-delete{
+    width: 10px;
+    height: 25px;
+}
+.icon-delete:hover{
+    background: red;
+}
+.box_comment .user{
+    font-size: 17px;
+    font-weight: normal;
+    margin-top: 22px;
+    float: left;
+}
+.box_comment .user:hover{
+    text-decoration: none;
+}

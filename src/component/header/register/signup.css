@@ -1,0 +1,26 @@
+
+  .signup .register{float: right;
+    margin-right:10px;
+  }
+  .signup .login{float: right;
+  margin-right: 10px;
+  }
+  .signup li{
+    list-style: none;
+    float: left;
+    }
+  .signup .btn-danger{
+  font-size: 12px;
+  font-weight: bold;}
+  .showName{
+    color: white;
+  }
+  .showName:hover{
+    color: rgb(202, 202, 143);
+    text-decoration: none;
+  }
+  .people{
+    width: 35px;
+    margin-right: 5px;
+    float: left;
+  }

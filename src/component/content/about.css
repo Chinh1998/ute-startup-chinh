@@ -1,0 +1,12 @@
+
+.about_content{
+    width: 80%;
+    float: left;
+    
+}
+.about h4{
+    color:red;
+}
+.about h4 p{
+    text-align: justify;;
+}

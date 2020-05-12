@@ -1,0 +1,13 @@
+
+.sub-createmajor{
+    width: 100%;
+    display: none;
+    background-color: cadetblue;
+    position: relative;
+    border-radius: 10px;
+    box-shadow: -3px -3px 0 0 rgb(68, 68, 68);
+}
+li:hover .sub-createmajor {
+    display: block;
+    transform: 3s;
+  }

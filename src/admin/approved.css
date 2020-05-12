@@ -1,0 +1,42 @@
+.approved{
+    width: 100%;
+   margin-top: 5px;
+   margin-left: 5px;
+
+    
+}
+.pendingnews{
+    float: left;
+    width: 100%;
+}
+.approved .img_news{
+    width: 25%;
+    float: left;
+}
+.approve_action{
+    display: none;
+    position: relative;
+    top:80px;
+    right: -30%;
+}
+.approved:hover .approve_action{
+    position: relative;;
+    display: block;
+}
+.approved .title{
+    text-decoration: none;
+    color:#25aa86;
+    text-align: justify;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
+    font-size: 20px;
+    
+}
+.approved .title:hover{
+    color: crimson;;}
+
+.approved p{
+    text-align: justify;
+    color: black;
+    font-size: 16px;
+    font-weight: normal;
+}

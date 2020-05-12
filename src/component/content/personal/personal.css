@@ -1,0 +1,26 @@
+.personal{
+    width: 50%;
+    float: left;
+    margin: 20px 0 10% 10%;
+}
+.badge{
+    width: 20%;
+    text-align: left;
+}
+.sub-changepass {
+    position: absolute;
+    width: auto;
+    height: auto;
+    display: none;
+}
+.sub-changepass li {
+    position: relative;
+    display: block;
+}
+li:hover .sub-changepass {
+    display: block;
+    transform: 3s;
+  }
+.menu-li{
+    list-style: none;
+}

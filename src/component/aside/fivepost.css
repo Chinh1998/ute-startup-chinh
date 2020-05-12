@@ -1,0 +1,33 @@
+.fivenews{
+    border-top: burlywood solid 1px;
+    width: 95%;
+    height: auto;
+    float: left;
+    margin: 1% 0 1% 2%;;
+}
+.fivenews .img_news{
+    height: auto;
+    width: 90%;
+    float: left;
+    margin-left: 2%;
+}
+.fivenews .title{
+    text-decoration: none;
+    color:crimson;
+    text-align: justify;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
+    font-size: 15px;
+}
+.fivenews .title:hover{
+    color: #25aa86;
+    text-decoration: none;
+}
+.link{
+    background: none;
+    border: none;
+    text-align: justify;
+}
+.viewmostpost{
+    position: absolute;
+    left: 25px;
+}

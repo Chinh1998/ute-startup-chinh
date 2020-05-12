@@ -1,0 +1,11 @@
+.aside{
+    width: 17%;
+    height: auto;
+    float: left;
+    margin:10px 5px 15px 15px;
+    border-radius: 7px;
+    box-shadow: 0 2px 3px 0px rgb(68, 68, 68);
+}
+ .btn-primary{
+    width: 100%;
+}

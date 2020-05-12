@@ -1,0 +1,14 @@
+.addComment{
+    width: 60%;
+    margin-top: 10%;
+}
+.postComment{
+    display: none;
+}
+.textComment{
+    height: 80px;
+}
+.addComment .btn-secondary{
+    position: relative;
+    top:15px
+}

@@ -1,0 +1,32 @@
+.regis_form{
+    width: 35%;
+    margin: 1% 0% 2% 10%;
+    background-color: white;
+    height: auto;
+    float: left;
+    padding: 1% 1% 1% 1%;
+    box-shadow: 0 2px 3px 0px rgb(68, 68, 68);
+}
+.register{
+    margin-bottom: 10px;
+}
+.register button{
+    float: right;
+    margin-right: 10%;
+}
+.register p{
+    float: left;
+    margin-right: 100%;
+    margin-left: 10%;
+    position: relative;
+    bottom: -28px;
+    width: 15%;
+}
+.register img{
+    width: 40%;
+    margin: 5% 0 0 2%;
+    float: left;
+}
+.regis_form .form-control{
+    width: 90%;
+}

@@ -1,0 +1,32 @@
+.login_page{
+    width: 100% ;
+    height: auto;
+   
+}
+.login_page img{
+    width: 35%;
+    float: left;
+    margin: 5% 0 0 10%;
+}
+.login_form{
+    background-color: white;
+    width: 30%;
+    margin: 5% 0 5% 2%;
+    border-radius: 7px;
+    box-shadow: 0 2px 3px 0px rgb(68, 68, 68);
+    float: left;
+    padding: 25px 1% 0 1%;
+}
+.inputlogin{
+    margin-bottom: 20px;
+    height: 50px;
+    font-size: 18px;
+}
+.actionlogin{
+    width: 300px;
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+.faillogin{
+    color: red;
+}

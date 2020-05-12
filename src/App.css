@@ -1,0 +1,29 @@
+
+.App{
+  border: deepskyblue solid 1px;
+  width: 100%;
+  height: auto;
+ background-color: rgb(235, 236, 236);;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.section{
+  margin-top: 7%;
+  clear: both;
+}
+.Container{
+  width: 100%;
+  height: auto;
+  box-sizing: border-box;
+  }
+/*@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}*/

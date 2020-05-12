@@ -1,0 +1,15 @@
+.content{
+    width: 59%;
+    height: auto;
+    box-sizing: border-box;
+    margin: 0 1% 1.2% 1%;
+    float: left;
+    background-color:white;
+    position: relative;
+    border-radius: 7px;
+    box-shadow: 0 2px 3px 0px rgb(68, 68, 68);
+}
+.content_post{
+    width: 120%;
+}
+

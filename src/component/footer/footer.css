@@ -1,0 +1,48 @@
+.footer {
+    width: 98%;
+    margin-left: 1%;
+    color: #fff;
+    background-color: rgb(25, 90, 163);;
+    clear: both;
+    border-radius: 10px;
+    box-shadow: -3px -3px 0 0 rgb(68, 68, 68);
+}
+.infor{
+    width: 32%;
+    height: auto;
+    float: left;
+    margin: 1% ;
+}
+.purpose{
+    width: 30%;
+    height: auto;
+    float: left;
+    margin: 1% ;
+}
+.connect{
+    width: 32%;
+    height: auto;
+    float: left;
+    margin: 1% ;
+}
+.footer p {
+    color: #ccc;				
+}
+.footer a {
+    color: #ccc;				
+}
+.footer .connect ul .icon_connect{
+    list-style: none;
+    margin-top: 3%;
+}
+.footer .connect .icon_connect img{
+    width: 40px;
+    height: auto;
+    margin-right: 1%;
+   }
+.copyright {
+    clear: both;
+    background-color: #111;
+    padding: 12px 0;
+font-size:14px;
+}

@@ -1,0 +1,9 @@
+.createpost_form{
+    margin: 2%;
+    width: 90%;
+    height: auto;
+    
+}
+input[type=text]:focus {
+    border: 3px solid #555;
+  }
